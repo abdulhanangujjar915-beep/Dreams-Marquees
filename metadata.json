@@ -1,0 +1,6 @@
+{
+  "name": "Dreams Marquees Ltd",
+  "description": "Luxury marquee and premium event tent hire for weddings, corporate functions, and outdoor celebrations in Slough and across Berkshire, UK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
